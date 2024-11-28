@@ -13,10 +13,12 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+
 </div> 
 
 <br />
+
+[![wakatime](https://wakatime.com/badge/user/e5e89f1f-b43b-4f9b-95b3-60a2fac326a1/project/2835d53c-320b-47f7-87e3-387db789e4bc.svg)](https://wakatime.com/badge/user/e5e89f1f-b43b-4f9b-95b3-60a2fac326a1/project/2835d53c-320b-47f7-87e3-387db789e4bc)
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
@@ -33,7 +35,7 @@
   <ol>
     <li>
       <a href="#overview">Overview</a>
-      <ol>
+      <ol> 
         <li>
           <a href="#key-components">Key Components</a>
         </li>
@@ -59,11 +61,11 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This project aims to create a website dedicating to vintage cars.
+
+- The project is about a online store website dedicated to classic cars.
+- The purpose of this website is to create a website that markets retro cars of different brands.
+- The technology used for this project is HTML and CSS.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -98,7 +100,25 @@ WD-Car-Company-Salinas
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
+|  └─ Collection
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ About Us
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ Contact
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
@@ -116,5 +136,4 @@ WD-Car-Company-Salinas
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3 Schools | Used as assitance for some codes, specifically the slideshow. | https://www.w3schools.com |
