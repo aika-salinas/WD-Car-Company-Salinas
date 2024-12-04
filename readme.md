@@ -61,14 +61,7 @@
 <!-- The following are just sample -->
 Classic Automobiles is a project that aims to serve as an online market page dedicating to vintage cars.
 Our project is designed to inform and market retro cars of different brand to classic enthusiasts.
-This user-friendly website utilizes HTML and CSS for its visually appealing casual interface and layouts
-
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+This user-friendly website utilizes HTML and CSS for its visually appealing casual interface and layouts.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
