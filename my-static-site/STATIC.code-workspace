@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../WD-Code-Demo-1-TD21-S"
+		},
+		{
+			"name": "WD-Car-Company-Salinas",
+			"path": ".."
+		},
+		{
+			"path": "../../CAR"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WD-Car-Company-Salinas",
+		"liveServer.settings.port": 5501
+	}
+}
