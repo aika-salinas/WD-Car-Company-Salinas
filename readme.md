@@ -59,13 +59,9 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-This project aims to create a website dedicating to vintage cars.
-
-- The project is about a online store website dedicated to classic cars.
-- The purpose of this website is to create a website that markets retro cars of different brands.
-- The technology used for this project is HTML and CSS.
+Classic Automobiles is a project that aims to serve as an online market page dedicating to vintage cars.
+Our project is designed to inform and market retro cars of different brand to classic enthusiasts.
+This user-friendly website utilizes HTML and CSS for its visually appealing casual interface and layouts
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -108,7 +104,7 @@ WD-Car-Company-Salinas
 |     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
 |     |  └─ js
 |     |     └─ script.js
-|     └─ index.html
+|     └─ collection.html
 |  └─ About Us
 |     └─ assets
 |     |  └─ css
@@ -117,7 +113,7 @@ WD-Car-Company-Salinas
 |     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
 |     |  └─ js
 |     |     └─ script.js
-|     └─ index.html
+|     └─ about.html
 |  └─ Contact
 |     └─ assets
 |     |  └─ css
@@ -126,7 +122,7 @@ WD-Car-Company-Salinas
 |     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
 |     |  └─ js
 |     |     └─ script.js
-|     └─ index.html
+|     └─ contact.html
 └─ index.html
 └─ readme.md
 ```
