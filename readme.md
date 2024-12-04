@@ -126,3 +126,5 @@ WD-Car-Company-Salinas
 | Title | Purpose | Link |
 |-|-|-|
 | W3 Schools | Used as assitance for some codes, specifically the slideshow. | https://www.w3schools.com |
+| Town&Country | For retro car references. | https://www.townandcountrymag.com/leisure/sporting/news/g2165/best-vintage-cars/ |
+| Toyota | Website reference. | https://www.toyota.com/ |
